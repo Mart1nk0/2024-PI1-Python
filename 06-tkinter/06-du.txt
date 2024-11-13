@@ -1,0 +1,2 @@
+Vytvoriť program, ktorý vypíše moje inicialy dlžky strany jedneho štvorca 10pix
+vykreslené pomocou štvorčekov zo súboru pixel_letters.jpg

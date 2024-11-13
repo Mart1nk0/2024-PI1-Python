@@ -1,0 +1,46 @@
+import tkinter
+
+canvas = tkinter.Canvas()          #vytvorenie plátna a jeho priradeni do  premennej canvas
+canvas.pack() 
+canvas.create_rectangle(20 ,20 ,30 ,30 , fill= "cyan")
+canvas.create_rectangle(20, 32 , 30, 42 , fill= "cyan")
+canvas.create_rectangle(20 , 44 , 30 , 56 , fill= "cyan") 
+canvas.create_rectangle(20 , 58 , 30 , 70 , fill= "cyan")
+canvas.create_rectangle(20 , 72 , 30 ,  84 , fill= "cyan")
+canvas.create_rectangle(20, 86 , 30 , 98 , fill= "cyan")
+canvas.create_rectangle(20 , 100 , 30 , 112 , fill= "cyan")
+canvas.create_rectangle(32, 32 , 42 , 42 , fill= "cyan")
+canvas.create_rectangle(44 , 42 ,54 , 52 , fill= "cyan")
+canvas.create_rectangle(44, 54 ,54 , 64 , fill= "cyan")
+canvas.create_rectangle(56 , 32 , 66 , 42 , fill= "cyan" )
+canvas.create_rectangle(68 ,44 , 78 , 56 , fill= "cyan")
+canvas.create_rectangle(68 ,32 , 78 , 42  , fill= "cyan")
+canvas.create_rectangle(68 , 20 ,78 ,30   , fill= "cyan")
+canvas.create_rectangle(68 , 58 , 78 , 70 , fill= "cyan")
+canvas.create_rectangle(68 ,72 , 78 , 84 , fill= "cyan")
+canvas.create_rectangle(68 , 86 , 78 , 98 , fill= "cyan")
+canvas.create_rectangle(68 , 100 , 78 , 112, fill= "cyan" )
+
+
+
+canvas.create_rectangle(120 ,20 ,130 ,30 , fill= "cyan")
+canvas.create_rectangle(120, 32 , 130, 42 , fill= "cyan")
+canvas.create_rectangle(120 , 44 , 130 , 56 , fill= "cyan")
+canvas.create_rectangle(120 , 58 , 130 , 70 , fill= "cyan")
+canvas.create_rectangle(120 , 72 , 130 ,  84 , fill= "cyan")
+canvas.create_rectangle(120, 86 , 130 , 98 , fill= "cyan")
+canvas.create_rectangle(120 , 100 , 130 , 112 , fill= "cyan")
+canvas.create_rectangle(132, 32 , 142 , 42 , fill= "cyan")
+canvas.create_rectangle(144 , 42 ,154 , 52  , fill= "cyan")
+canvas.create_rectangle(144, 54 ,154 , 64 , fill= "cyan")
+canvas.create_rectangle(156 , 32 , 166 , 42  , fill= "cyan")
+canvas.create_rectangle(168 ,44 , 178 , 56 , fill= "cyan")
+canvas.create_rectangle(168 ,32 , 178 , 42 , fill= "cyan" )
+canvas.create_rectangle(168 , 20 ,178 ,30, fill= "cyan")
+canvas.create_rectangle(168 , 58 , 178 , 70 , fill= "cyan")
+canvas.create_rectangle(168 ,72 , 178 , 84 , fill= "cyan")
+canvas.create_rectangle(168 , 86 , 178 , 98 , fill= "cyan")
+canvas.create_rectangle(168 , 100 , 178 , 112 , fill= "cyan")
+
+
+tkinter.mainloop()

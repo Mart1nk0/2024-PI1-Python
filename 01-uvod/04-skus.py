@@ -1,0 +1,2 @@
+meno = "Adam"
+print(meno)
