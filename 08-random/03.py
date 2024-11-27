@@ -65,5 +65,3 @@
 
 
 
-
-tkinter.mainloop()
