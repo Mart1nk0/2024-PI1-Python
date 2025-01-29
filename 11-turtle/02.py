@@ -12,10 +12,10 @@ def trojuholnik(dlzka):
         t.rt(120)
 
 def dom(d):
-    t.pencolor('blue')
+    t.pencolor('dark green')
     stvorec(d)
     t.lt(60)
-    t.pencolor('red')
+    t.pencolor('magenta')
     trojuholnik(d)
     t.rt(60)
 
