@@ -2,7 +2,8 @@ import turtle
 from turtle import *
 
 turtle.title("rainbow spiral")
-speed(15)
+speed(0)
+delay(0)
 bgcolor("black")
 r,g,b=255,0,0
 

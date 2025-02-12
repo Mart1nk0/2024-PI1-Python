@@ -1,7 +1,7 @@
 
 import turtle
-
-
+t = turtle.Turtle()
+t.speed(0)
 def setup(x, y):
     turtle.setx(x)
     turtle.sety(y)
