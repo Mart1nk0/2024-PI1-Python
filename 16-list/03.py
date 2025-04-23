@@ -17,14 +17,15 @@ def max():
     for i in range(pocet_dni):
             if teploty[i] > najvyssiateplota:
                 najvyssiateplota = teploty[i]
-                print(f"najvyssia teplota je: {najvyssiateplota}")
+    print(f"najvyssia teplota je: {najvyssiateplota}")
 
 def min():
     najnizsiateplota = 31
     for i in range(pocet_dni):
         if teploty[i] < najnizsiateplota:
             najnizsiateplota = teploty[i]
-            print(f"najnizsia teplota je: {najnizsiateplota}")
+    print(f"najnizsia teplota je: {najnizsiateplota}")
+
 
 vypisteplot()
 max()
