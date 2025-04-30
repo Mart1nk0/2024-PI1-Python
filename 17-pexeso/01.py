@@ -63,3 +63,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     game = MemoryGame(root)
     root.mainloop()
+gdgd =  2
