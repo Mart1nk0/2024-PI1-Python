@@ -1,0 +1,20 @@
+
+----------------------------------------
+Meno: Martin
+Priezvisko: Mitka
+Rok narodenia: 2009
+Obľúbené auto: Porshe
+Obľúbené zviera: Rybička
+Obľúbená farba: Modrá
+Číslo: 7
+----------------------------------------
+
+----------------------------------------
+Meno: Samko
+Priezvisko: Svoboda
+Rok narodenia: 2008
+Obľúbené auto: Ferrari
+Obľúbené zviera: Jozko
+Obľúbená farba: modra
+Číslo: 100
+----------------------------------------
